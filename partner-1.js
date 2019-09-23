@@ -1,15 +1,29 @@
 //Name: Mikayla Holbrook
-//notetoself dont forget to commit changes every time you add a function
+//notetoself <!!!DONT!!!> forget to commit changes every time you add a function
 
+const inchesToCentimeters = (centimeters) => {
+    return centimeters * 2.541;
+}
 
 const feetToMeters = (feet) => {
     return feet * 0.305;
+}
+
+const milesToKilometers = (miles) => {
+    return miles * 1.609;
+}
+
+const gallonsToLiters = (liters) => {
+    return liters * .;
 }
 
 const poundsToKilograms = (pounds) => {
     return pounds * 0.45;
 }
 
-const milesToKilometers = (miles) => {
-    return miles * 1.609;
+const celsiusToFarenheit = (farenheit) => {
+    return farenheit * .;
 }
+
+
+
