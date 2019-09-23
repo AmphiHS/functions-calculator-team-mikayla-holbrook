@@ -14,7 +14,7 @@ const milesToKilometers = (miles) => {
 }
 
 const gallonsToLiters = (liters) => {
-    return liters * .;
+    return liters * 3.78;
 }
 
 const poundsToKilograms = (pounds) => {
