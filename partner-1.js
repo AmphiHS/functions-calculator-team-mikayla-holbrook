@@ -21,8 +21,15 @@ const poundsToKilograms = (pounds) => {
     return pounds * 0.45;
 }
 
+//check/finnish this
 const celsiusToFarenheit = (farenheit) => {
     return farenheit * .;
+}
+
+
+//
+const areaOfTriangle = (h,b) => {
+    return (h * b)/2;
 }
 
 
